@@ -1,0 +1,25 @@
+.movie-form{
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	width: 500px;
+	margin: 20px 0px 20px 0px;
+}
+
+.movie-form > input {
+    height: 40px;
+	width: 100%;
+	margin-right: 20px;
+	border-radius: 5px;
+	border: 1px solid #b4b3b3;
+	padding: 20px;
+}
+
+.movie-form > button {
+    height: 40px;
+	width: 60px;
+}
+
+.movie-form > ::-webkit-input-placeholder{
+	font-size: medium;
+}

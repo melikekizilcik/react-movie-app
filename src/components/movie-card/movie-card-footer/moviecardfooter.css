@@ -1,0 +1,9 @@
+.movie-card-footer{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.movie-card-footer > button {
+    margin-left: 30px;
+}

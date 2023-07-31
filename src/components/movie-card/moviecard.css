@@ -1,0 +1,10 @@
+.movie-card{
+    background-color: white;
+    max-width: fit-content;
+    width: 100%;
+    padding: 50px;
+    border-radius: 20px;
+    box-shadow: -2px 16px 33px -4px rgba(0, 0, 0, 0.10);
+	-webkit-box-shadow: -2px 16px 33px -4px rgba(0, 0, 0, 0.10);
+	-moz-box-shadow: -2px 16px 33px -4px rgba(0, 0, 0, 0.10);
+}

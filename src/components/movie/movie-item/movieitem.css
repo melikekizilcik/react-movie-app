@@ -1,0 +1,10 @@
+.movie-item{
+    width: 100%;
+    
+}
+
+.movie-item-title{
+    background-color: rgb(236, 236, 236);
+    padding: 5px;
+    border-radius: 5px;
+}
